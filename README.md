@@ -23,7 +23,7 @@ The system consists of three specialized agents coordinated by an orchestrator:
 3. **Content Agent:** Creates a balanced report incorporating multiple perspectives
 4. **Orchestrator:** Coordinates the workflow between specialized agents
 
-![Architecture Diagram](architecture_diagram.png)
+![Architecture Diagram](https://github.com/user-attachments/assets/49a41611-5068-4b34-905c-1c5446c64204)
 
 ## Communication Protocol
 
