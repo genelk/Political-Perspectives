@@ -1,4 +1,3 @@
-# communication/message.py
 class AgentMessage:
     """Message format for inter-agent communication."""
     
