@@ -1,0 +1,64 @@
+{
+  "news_sources": [
+    {
+      "name": "CNN",
+      "perspective": "left",
+      "reliability": "medium",
+      "focus": ["politics", "international", "business"]
+    },
+    {
+      "name": "Fox News",
+      "perspective": "right",
+      "reliability": "medium",
+      "focus": ["politics", "opinion", "business"]
+    },
+    {
+      "name": "Reuters",
+      "perspective": "center",
+      "reliability": "high",
+      "focus": ["politics", "international", "business", "technology"]
+    },
+    {
+      "name": "MSNBC",
+      "perspective": "left",
+      "reliability": "medium",
+      "focus": ["politics", "opinion"]
+    },
+    {
+      "name": "Wall Street Journal",
+      "perspective": "right-center",
+      "reliability": "high",
+      "focus": ["business", "finance", "politics"]
+    },
+    {
+      "name": "BBC",
+      "perspective": "center-left",
+      "reliability": "high",
+      "focus": ["international", "politics", "culture"]
+    },
+    {
+      "name": "The Guardian",
+      "perspective": "left",
+      "reliability": "high",
+      "focus": ["politics", "international", "environment"]
+    },
+    {
+      "name": "Breitbart",
+      "perspective": "far-right",
+      "reliability": "low",
+      "focus": ["politics", "opinion"]
+    },
+    {
+      "name": "Associated Press",
+      "perspective": "center",
+      "reliability": "very high",
+      "focus": ["politics", "business", "international", "breaking news"]
+    },
+    {
+      "name": "The Economist",
+      "perspective": "center",
+      "reliability": "high",
+      "focus": ["economics", "international", "politics", "analysis"]
+    }
+  ]
+}
