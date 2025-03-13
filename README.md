@@ -4,7 +4,11 @@ A multi-agent system that generates balanced political analysis by combining per
 
 ## Overview
 
+This project is a **proof of concept** that demonstrates an architectural approach to multi-perspective political analysis using a system of specialized AI agents. It currently uses simulated data and responses rather than connecting to real news sources or APIs.
+
 Political Perspectives is an experimental system inspired by Ground News that demonstrates how multiple specialized AI models can work together to analyze political topics from different viewpoints. The system uses a code-based communication protocol between agents while providing human-readable reasoning snippets to show its thought process.
+
+*Note: This implementation uses placeholder data to demonstrate the system architecture. The responses are pre-defined examples rather than actual analyses of current political topics.*
 
 ## Key Features
 
